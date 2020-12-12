@@ -1,4 +1,4 @@
-const madhava_leibniz_series_pack = require("./madhava_leibniz_series");
+const madhava_leibniz_series_pack = require("./formulae/madhava_leibniz_series");
 const madhava_leibniz_series_approx =
   madhava_leibniz_series_pack.madhava_leibniz_series_approx;
 

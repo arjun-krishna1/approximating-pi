@@ -1,7 +1,7 @@
 # Approximating Pi
 
 ## The Madhava-Leibniz series
-![Madhava-Leibniz series](img/madhava-leibniz-formulae.svg)
+![Madhava-Leibniz series](assets/img/madhava-leibniz-formulae.svg)
 
 Figure 1: Madhava-Leibniz series
 

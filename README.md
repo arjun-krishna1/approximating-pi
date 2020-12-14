@@ -1,3 +1,9 @@
+# What is the project?
+- I am building an application to visualize the accuracy and speed of various Pi Approximation algorithms
+- I have always been fascinate by Pi, a number that can't fully be expressed by our number system
+- The fact that we have proven that it can never be fully expressed is fascinating
+- It is an unknowable entity
+
 # Formulae for Approximating Pi
 
 ## The Madhava-Leibniz series
